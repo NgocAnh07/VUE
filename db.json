@@ -1,0 +1,17 @@
+{
+    "students": [
+        {
+            "id": "1",
+            "name": "S",
+            "age": "16",
+            "img": "https://static.wikitide.net/bluearchivewiki/6/63/Shiroko.png"
+            
+        },
+        {
+            "id": "2",
+            "name": "M",
+            "age": "17",
+            "img": "https://static.wikitide.net/bluearchivewiki/c/c8/Mika.png"
+        }
+    ]
+}
